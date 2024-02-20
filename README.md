@@ -1,2 +1,2 @@
-# math-exercises
-brushing up calculus, linear algebra, and statistics knowledge
+# ml-notes
+brushing up ml, calculus, linear algebra, and statistics knowledge
